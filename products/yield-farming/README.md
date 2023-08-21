@@ -2,7 +2,7 @@
 
 Yield Farms allow users to earn CHEWY while supporting ChewySwap by staking LP Tokens.
 
-Check out our How to Use Farms Guide to get started with farming.
+Check out our [How to Use Farms Guide](how-to-use-farms.md) to get started with farming.
 
 
 
