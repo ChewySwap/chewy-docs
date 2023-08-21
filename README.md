@@ -20,7 +20,7 @@ If you thought BSC had low fees wait til you start trading on Shibarium! The cos
 
 ## &#x20;Earn
 
-> Earn DOGECORN and other tokens for free with interest rates even bigger than Shrek himself!
+> Earn CHEWY and other tokens for free with interest rates that will leave you and your furry friend salivating!
 
 ### Earn tokens with Single Staking (Coming Soon)
 
@@ -36,7 +36,7 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 
 
-## Is ChewySwapSafe?
+## Is ChewySwap Safe?
 
 ### Transparent:
 
