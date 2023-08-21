@@ -1,4 +1,4 @@
-# Create a Wallet
+# 👜 Create a Wallet
 
 To get started on ChewySwap, the first thing you'll need is to set up a wallet that supports Shibarium or custom EVM chains. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
