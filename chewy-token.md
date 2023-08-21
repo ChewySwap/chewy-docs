@@ -8,7 +8,7 @@ CHEWY token is the reward token for ChewySwap farms and staking pools. Unlike mo
 \
 Ways we're increasing Chewy's Utility:
 
-* **Buy fair launches with your Chewy!** - We'll partner with known safe devs to pair Chewyto a token when it launches in exchange for early whitelisting. So you can directly swap your Chewy rewards for new launches at 0 cost and risk \*\*
+* **Buy fair launches with your Chewy!** - We'll partner with known safe devs to pair Chewy to a token when it launches in exchange for early whitelisting. So you can directly swap your Chewy rewards for new launches at 0 cost and risk \*\*
 * Providing projects custom single token staking pools and NFT staking pools in exchange for adding to Chewy's Liquidity Pool (LP) (Soon!)
 * Pairing Liquidity with other projects in the Shibarium ecosystem to increase liquidity and allow Chewy holders to directly swap Chewy for other great projects in the Shibarium ecosystem
 * Chewy staking pools to earn other free tokens from your farming rewards just for holding (Soon!)
