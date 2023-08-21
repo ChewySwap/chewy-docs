@@ -1,4 +1,4 @@
-# ChewySwap Intro
+# ℹ ChewySwap Intro
 
 {% hint style="success" %}
 ChewySwap helps you make the most out of your Shibarium and Dogechain trading experience in multiple ways: Trade, Earn, Community!

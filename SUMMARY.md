@@ -1,3 +1,17 @@
 # Table of contents
 
-* [ChewySwap Intro](README.md)
+* [ℹ ChewySwap Intro](README.md)
+  * [Get Started](chewyswap-intro/get-started.md)
+  * [Create a Wallet](chewyswap-intro/create-a-wallet.md)
+* [💩 PooShib Token](pooshib-token.md)
+* [🦴 Chewy Token](chewy-token.md)
+* [🎉 Products](products/README.md)
+  * [🔄 Exchange](products/exchange/README.md)
+    * [Token Swaps](products/exchange/token-swaps.md)
+    * [Fees and Routes](products/exchange/fees-and-routes.md)
+    * [Liquidity Pools](products/exchange/liquidity-pools.md)
+* [🧑🌾 Yield Farming](yield-farming.md)
+* [⚖ Governance and Tokenomics](governance-and-tokenomics.md)
+* [🤝 Ecosystem & Partnerships](ecosystem-and-partnerships.md)
+* [👩💻 Developers](developers.md)
+* [🎬 Media Kit](media-kit.md)
