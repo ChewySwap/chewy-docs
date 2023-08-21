@@ -10,6 +10,7 @@
     * [↕ Token Swaps](products/exchange/token-swaps.md)
     * [🗺 Fees and Routes](products/exchange/fees-and-routes.md)
     * [🔒 Liquidity Pools](products/exchange/liquidity-pools.md)
+    * [⚙ Settings / Slippage](products/exchange/settings-slippage.md)
   * [🧑🌾 Yield Farming](products/yield-farming/README.md)
     * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
 * [⚖ Governance and Tokenomics](governance-and-tokenomics.md)
