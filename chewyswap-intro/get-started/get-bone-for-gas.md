@@ -14,7 +14,7 @@ This early into Shibarium's release there's only one way to bridge Bone from Eth
 
 {% tabs %}
 {% tab title="🍖 Shibarium Bridge" %}
-<figure><img src="../.gitbook/assets/ShibariumBrige.png" alt="" width="375"><figcaption><p>Shibarium Native Bridge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ShibariumBrige.png" alt="" width="375"><figcaption><p>Shibarium Native Bridge</p></figcaption></figure>
 
 [Shibarium Bridge](https://shibarium.shib.io/bridge) - official cross-chain bridge for bridging BONE and Wrapped ETHER between Ethereum and Shibarium.
 

@@ -28,7 +28,7 @@ Here's a list of the most popular wallets you can use to connect to Shibarium an
 
 {% tabs %}
 {% tab title="Metamask" %}
-<figure><img src="../.gitbook/assets/Metamask.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Metamask.png" alt=""><figcaption></figcaption></figure>
 
 Metamask is one of the oldest open-source software wallets that supports Shibarium. It has a built-in dApp browser on most platforms and is compatible with all EVM-compatible blockchains. A bit of a learning curve for newbies but it's the most tried and tested wallet in the industry. There are constant security updates with new features and UI upgrades being added all the time. Users have to manually add Shibarium's network info as there are only a couple built-in blockchain networks. Also supports walletconnect and hardware wallets such as trezor.
 
@@ -39,7 +39,7 @@ Metamask is one of the oldest open-source software wallets that supports Shibari
 {% endtab %}
 
 {% tab title="BitKeep" %}
-<figure><img src="../.gitbook/assets/Bitkeep.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bitkeep.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Bitkeep wallet is a relatively new kid on the block as far as software wallets, it is a great choice for beginners because it supports custom EVM networks like Shibarium. It's open source and has support for many other networks such as Dogecoin, Ethereum, BSC, Polkadot, Solana and more. It has a built in NFT marketplace and modern dapp browser. In my testing is compatible with most dApps that are compatible with Metamask\
 \
@@ -51,7 +51,7 @@ Bitkeep wallet is a relatively new kid on the block as far as software wallets, 
 {% endtab %}
 
 {% tab title="Coinbase" %}
-<figure><img src="../.gitbook/assets/coinbase.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coinbase.webp" alt="" width="375"><figcaption></figcaption></figure>
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -74,7 +74,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="TrustWallet" %}
-<figure><img src="../.gitbook/assets/full-trust-wallet-logo-2048x477.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/full-trust-wallet-logo-2048x477.webp" alt="" width="375"><figcaption></figcaption></figure>
 
 Trust Wallet is a community driven, open-source, multi coin crypto wallet. It enables blockchain developers to build their DApps and wallets natively without having to worry about the low-level implementation details. It doesn't have as good compatibility with 3rd party dApps as other options but the good news is that if you use TrustWallet it's possible to add Dogechain now as a custom network!
 
@@ -84,7 +84,7 @@ Trust Wallet is a community driven, open-source, multi coin crypto wallet. It en
 {% endtab %}
 
 {% tab title="Coin98" %}
-<figure><img src="../.gitbook/assets/Coin98.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Coin98.svg" alt=""><figcaption></figcaption></figure>
 
 Coin98 wallet is a closed source software wallet application, for this reason we would not recommend using it although it does support adding Dogechain as a custom network. However if you're already using C98 wallet and don't mind that it's not completely open source then it will work fine for using with Dogechain\
 

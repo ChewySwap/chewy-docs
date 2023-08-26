@@ -1,9 +1,11 @@
 # Table of contents
 
 * [ℹ ChewySwap Intro](README.md)
-  * [🏃♂ Get Started](chewyswap-intro/get-started.md)
-  * [🍖 Get BONE for Gas](chewyswap-intro/get-bone-for-gas.md)
-  * [👜 Create a Wallet](chewyswap-intro/create-a-wallet.md)
+  * [🏃♂ Get Started](chewyswap-intro/get-started/README.md)
+    * [👜 Create a Wallet](chewyswap-intro/get-started/create-a-wallet.md)
+    * [🍖 Get BONE for Gas](chewyswap-intro/get-started/get-bone-for-gas.md)
+  * [🔍 Audits](chewyswap-intro/audits.md)
+  * [🗺 Roadmap](chewyswap-intro/roadmap.md)
 * [💩 PooShib Token](pooshib-token.md)
 * [🦴 Chewy Token](chewy-token.md)
 * [🎉 Products](products/README.md)
