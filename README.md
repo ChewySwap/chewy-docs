@@ -63,8 +63,8 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 ### Transparent:
 
 * We're built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-* Our contracts are verified on ShibariumScan so you know that what you see is what you get: [1](https://explorer.dogechain.dog/address/0xd1529eF462316b2f31336352dEf66Ae21EB69241/contracts#address-tabs) [2](https://explorer.dogechain.dog/address/0xd1529eF462316b2f31336352dEf66Ae21EB69241/contracts#address-tabs) [3](https://explorer.dogechain.dog/address/0xdDC5b34c49E2Df3F78cA1B3D3BD9699a4e488c1D/contracts#address-tabs) [4](https://explorer.dogechain.dog/address/0x8df9B21945ebaa75424730F85eCFf426C35F5EF8/contracts#address-tabs) [5](https://explorer.dogechain.dog/address/0x2BE0096B24343549E34224aa9aa297E99961023D/contracts#address-tabs)
-* All frontend code is Open Source and can be accessed via [GitHub](https://github.com/PooDoge/DogeshrekDEX-UI): [1](https://github.com/PooDoge/DogeshrekDEX-UI) [2](https://github.com/PooDoge/Dogeshrek-Farms) [3](https://github.com/PooDoge/dogeshrek-sdk) [4](https://github.com/PooDoge/farms-uikit) [5](https://github.com/PooDoge/dogeshrek-uikit) [6](https://github.com/PooDoge/dogeshrek-tokenlist)
+* Our contracts are verified on ShibariumScan so you know that what you see is what you get: (coming soon)
+* All frontend code is Open Source and can be accessed via [GitHub](https://github.com/PooDoge/DogeshrekDEX-UI) (coming soon)
 * Unlike many DEX on Shibarium, we're fully GPL v3 compliant and share every bit of forked code completely up to date
 
 ### Always Accessible
@@ -79,4 +79,4 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 ### Audits Incoming
 
-Audits are incoming but rest assured that every contract has been forked from fully audited projects including that of Uniswap and PancakeSwap
+Audits for both the Shibarium and Dogechain DEX smart contracts are in progress and should be ready before the DEX goes live, but rest assured that every contract has been forked from fully audited projects including that of Uniswap.
