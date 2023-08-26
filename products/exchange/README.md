@@ -1,5 +1,7 @@
 # 🔄 Exchange
 
+<figure><img src="../../.gitbook/assets/ChewyExchange.png" alt=""><figcaption></figcaption></figure>
+
 ChewySwap is an Automated Market Maker (AMM), and the Exchange is at the heart of Chewy. It is the leading and most active Community-Based AMM on Shibarium!
 
 The ChewySwap exchange offers many features that support decentralized trading:

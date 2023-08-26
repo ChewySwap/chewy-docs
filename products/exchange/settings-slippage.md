@@ -6,7 +6,7 @@ At ChewySwap we put a lot of work into making sure our AMM interface is customiz
 All user settings are automatically saved and will persist in your browser until either your browser cache is cleared or you change them back to their previous setting.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption><p>Settings Dialog. Tap or hover your mouse over the ❔ icon to get more information</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
 
 ## Slippage Tolerance
 
