@@ -1,6 +1,6 @@
 # 🧑🌾 Yield Farming
 
-<figure><img src="../../.gitbook/assets/ChewyYieldFarming (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChewyYieldFarming (2).png" alt=""><figcaption></figcaption></figure>
 
 Yield Farms allow users to earn CHEWY while supporting ChewySwap by staking LP Tokens.
 
