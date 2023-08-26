@@ -2,6 +2,7 @@
 
 * [ℹ ChewySwap Intro](README.md)
   * [🏃♂ Get Started](chewyswap-intro/get-started.md)
+  * [🍖 Get BONE for Gas](chewyswap-intro/get-bone-for-gas.md)
   * [👜 Create a Wallet](chewyswap-intro/create-a-wallet.md)
 * [💩 PooShib Token](pooshib-token.md)
 * [🦴 Chewy Token](chewy-token.md)
