@@ -14,6 +14,8 @@ description: Main staking contract for distributing and managing emissions
 \
 View the Chewy: Main Staking Contract on ShibariumScan
 
+[View the ChewySwap Main Staking Contract on GitHub](https://github.com/ChewySwap/chewyswap-contracts/blob/main/ChewyChef.sol)
+
 
 
 **Contract Name:** MasterChef\
@@ -21,3 +23,4 @@ View the Chewy: Main Staking Contract on ShibariumScan
 **Contract Address:** 0xdDC5b34c49E2Df3F78cA1B3D3BD9699a4e488c1D\
 \
 View the [Dogecorn: Main Staking Contract on Dogechain Explorer](https://explorer.dogechain.dog/address/0xdDC5b34c49E2Df3F78cA1B3D3BD9699a4e488c1D/contracts#address-tabs)
+
