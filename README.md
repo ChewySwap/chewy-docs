@@ -1,7 +1,25 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ℹ ChewySwap Intro
 
+
+
+<figure><img src=".gitbook/assets/8.png" alt="" width="375"><figcaption></figcaption></figure>
+
 {% hint style="success" %}
-ChewySwap helps you make the most out of your Shibarium and Dogechain trading experience in multiple ways: Trade, Earn, Community!
+ChewySwap helps you make the most out of your Shibarium and Dogechain trading experience in multiple ways: Track, Trade, Earn and Community! A unique DEX combining portfolio tracking, NFT's, Staking, Farms and more!
 {% endhint %}
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
@@ -13,6 +31,10 @@ ChewySwap helps you make the most out of your Shibarium and Dogechain trading ex
 ### By the People, For the People!
 
 ChewySwap is the leading _**Community-Based**_ decentralized exchange on Shibarium and Dogechain, the two leading EVM compatible blockchains for Dog lovers! For more information on Shiba Inu and Shibarium [Click Here!](https://shib.io) For more information on Dogechain and the charge to bring Decentralized Finance and increased utility to Dogecoin [Click Here!](https://dogechain.dog)
+
+### For the Public Good!
+
+ChewySwap is pledging 2% of all profits generated from platform trading fees to charities helping Children and Dogs. The target recipient of these funds will be voted on by on-chain Governance using CHEWY tokens.
 
 ### Low, Near-Zero Fees!
 
@@ -49,6 +71,11 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 * Our frontends all have IPFS backups so no matter what happens to our web host you'll always have access to your funds
 * We have a team of moderators ready to answer any of your questions and to give customer support nearly 24/7 in our [Telegram Group](https://t.me/chewyswapcommunity).
+
+### Safe, Experienced Team
+
+* Lead Developer is a Crypto OG - got started mining crypto in 2014 and has been known to help revive multiple dead, abandoned or rugged projects. He is always quick to help users with their blockchain woes and never turns down a request for help. ChewySwap is meant to embody the positive feel-good attitude of a community that comes together for the public good!
+* Team includes a group of friends who went through the last bull-bear market cycle together and are motivated to make a lasting impact in the space by being the most active and transparent team ever seen in DeFi
 
 ### Audits Incoming
 
