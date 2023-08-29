@@ -6,6 +6,8 @@
     * [🍖 Get BONE for Gas](chewyswap-intro/get-started/get-bone-for-gas.md)
   * [🔍 Audits](chewyswap-intro/audits.md)
   * [🗺 Roadmap](chewyswap-intro/roadmap.md)
+* [🐶 Connect to Shibarium](connect-to-shibarium.md)
+* [🐕 Connect to Dogechain](connect-to-dogechain.md)
 * [💩 PooShib Token](pooshib-token.md)
 * [🦴 Chewy Token](chewy-token.md)
 * [🎉 Products](products/README.md)
