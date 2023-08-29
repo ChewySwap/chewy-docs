@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/AuditsCover.png
-coverY: 75
+coverY: 444.10453769300636
 layout:
   cover:
     visible: true
