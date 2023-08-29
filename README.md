@@ -72,12 +72,12 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 * Our frontends all have IPFS backups so no matter what happens to our web host you'll always have access to your funds
 * We have a team of moderators ready to answer any of your questions and to give customer support nearly 24/7 in our [Telegram Group](https://t.me/chewyswapcommunity).
 
-### Safe, Experienced Team
+### Experienced Team
 
 * Lead Developer is a Crypto OG - got started mining crypto in 2014 and has been known to help revive multiple dead, abandoned or rugged projects. He is always quick to help users with their blockchain woes and never turns down a request for help. ChewySwap is meant to embody the positive feel-good attitude of a community that comes together for the public good!
 * Team includes a group of friends who went through the last bull-bear market cycle together and are motivated to make a lasting impact in the space by being the most active and transparent team ever seen in DeFi
 
-### Safe, Audited Smart Contracts
+### Audited Smart Contracts
 
 Especially when you're dealing with new projects on new blockchains it's important that every step be taken to ensure that user's funds are safe from exploitation by hackers or even by bad actors on a project's team. A decentralized exchange shouldn't be able to be exploited by hackers or rugged by its owners, for this reason we chose to fork only the most tried and tested smart contracts for our DEX from the likes of Uniswap and PancakeSwap.&#x20;
 
