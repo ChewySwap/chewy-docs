@@ -2,15 +2,15 @@
 
 ## Core AMM Smart Contracts
 
-<table><thead><tr><th width="108.33333333333331">Contract</th><th>Shibarium</th><th>Dogechain</th></tr></thead><tbody><tr><td>Router</td><td>0xEDedDbde5ffA62545eDF97054edC11013ED72125 **</td><td>0x45AFCf57F7e3F3B9cA70335E5E85e4F77DcC5087</td></tr><tr><td>Factory</td><td>0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c **</td><td>0x7C10a3b7EcD42dd7D79C0b9d58dDB812f92B574A</td></tr></tbody></table>
+<table><thead><tr><th width="108.33333333333331">Contract</th><th>Shibarium</th><th>Dogechain</th></tr></thead><tbody><tr><td>Router</td><td>0x2875F2D86d83635A859029872e745581530cEec7</td><td>0x45AFCf57F7e3F3B9cA70335E5E85e4F77DcC5087</td></tr><tr><td>Factory</td><td>0xEDedDbde5ffA62545eDF97054edC11013ED72125</td><td>0x7C10a3b7EcD42dd7D79C0b9d58dDB812f92B574A</td></tr></tbody></table>
 
-{% hint style="danger" %}
-<mark style="color:red;">**\*\* Router Contract is not final! Waiting for Shib team to release official Wrapped Bone contract to officially go live and redeploy Router with new WBONE address. If you're planning to launch on ChewySwap and would like to test your contracts on mainnet feel free to use the**</mark> [**Preview AMM**](https://app.chewyswap.dog) <mark style="color:red;">**to test before launch day comes. DO NOT use this Router for production**</mark>&#x20;
+{% hint style="success" %}
+ChewySwap is now live on both Shibarium and Dogechain! Be sure to use the right router for the right chain!
 {% endhint %}
 
-[View the Router Contract on ShibariumScan](https://www.shibariumscan.io/address/0xA4029b74FBA366c926eDFA7Dd10B21C621170a4c/contracts#address-tabs)
+[View the Router Contract on ShibariumScan](https://www.shibariumscan.io/address/0x2875F2D86d83635A859029872e745581530cEec7)
 
-[View the Factory Contract on ShibariumScan](https://www.shibariumscan.io/address/0xEDedDbde5ffA62545eDF97054edC11013ED72125)
+[View the Factory Contract on ShibariumScan](https://www.shibariumscan.io/address/0xEDedDbde5ffA62545eDF97054edC11013ED72125?ref=blog.shib.io)
 
 {% hint style="info" %}
 Shibarium INIT\_CODE\_HASH:
