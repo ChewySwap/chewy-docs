@@ -68,7 +68,7 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ### Collecting your farming rewards
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you CHEWY rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
 
 ### Returning to your Farm to Harvest
 
