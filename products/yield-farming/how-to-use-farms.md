@@ -68,11 +68,11 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ### Collecting your farming rewards
 
-Farming will bring you CHEWY rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you CHEWY rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in single token staking pools, use them to play Lottery, or anything else you’d like.
 
 ### Returning to your Farm to Harvest
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+You can harvest your Farm and Staking Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the CHEWY waiting for you.
 
