@@ -19,7 +19,7 @@ layout:
 <figure><img src=".gitbook/assets/8.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-ChewySwap helps you make the most out of your Shibarium and Dogechain trading experience in multiple ways: Track, Trade, Earn and Community! A unique DEX combining portfolio tracking, NFT's, Staking, Farms and more!
+[ChewySwap](https://chewyswap.dog), now live on Shibarium and Dogechain! Helps you make the most out of your Doggy Blockchain trading experience in multiple ways: Tracking, Trading, Earning and Community! A unique DEX combining portfolio tracking, NFT's, Staking, Farms and more! ChewySwap is meant to be powerful enough for the avid DeFi trader while being easy enough to use for all Shibes making their first foray into DeFi!
 {% endhint %}
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
