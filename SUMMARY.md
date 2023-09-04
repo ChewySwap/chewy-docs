@@ -22,6 +22,7 @@
 * [🤝 Ecosystem & Partnerships](ecosystem-and-partnerships.md)
 * [👩💻 Developers](developers/README.md)
   * [👍 Contributing](developers/contributing.md)
+  * [🚀 Launching on ChewySwap](developers/launching-on-chewyswap.md)
   * [📄 Smart Contracts](developers/smart-contracts/README.md)
     * [🔄 ChewySwap Exchange](developers/smart-contracts/chewyswap-exchange.md)
     * [👨🍳 MasterChef](developers/smart-contracts/masterchef.md)
