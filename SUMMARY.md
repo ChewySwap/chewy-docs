@@ -8,7 +8,7 @@
   * [🗺 Roadmap](chewyswap-intro/roadmap.md)
 * [🐶 Connect to Shibarium](connect-to-shibarium.md)
 * [🐕 Connect to Dogechain](connect-to-dogechain.md)
-* [💩 PooShi Token](pooshi-token.md)
+* [💩 PooShi Token](pooshib-token.md)
 * [🦴 Chewy Token](chewy-token.md)
 * [🎉 Products](products/README.md)
   * [🔄 Exchange](products/exchange/README.md)
