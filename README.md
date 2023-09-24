@@ -44,9 +44,9 @@ If you thought BSC had low fees wait til you start trading on Shibarium! The cos
 
 > Earn CHEWY and other tokens for free with interest rates that will leave you and your furry friend salivating!
 
-### Earn tokens with Single Staking (Coming Soon)
+### Earn tokens with Single Staking
 
-Stake a variety of Shibarium-based tokens and earn free tokens. Third party pools provided to projects feed back into our ecosystem making for more sustainable rewards helping Chewy retain its value so you can earn more, for even longer.
+Stake a variety of Shibarium-based tokens and earn free tokens. And also coming soon: Third party pools provided to projects feed back into our ecosystem making for more sustainable rewards helping Chewy retain its value so you can earn more, for even longer.
 
 ### Earn CHEWY with Yield Farms
 
