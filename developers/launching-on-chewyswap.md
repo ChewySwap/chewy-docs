@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/launchingonchewy.png" alt="" width="563"><figcaption></figcaption></figure>
 
-If you're looking to launch your own token project on ChewySwap there are many resources available for developers unique to our DEX! If you have any questions also feel welcome to ask in our \[Official Telegram Group]\(https://t.me/chewyswapcommunity) and our experienced community of developers would be happy to assist you with your smart contract, Dapp, NFT and more!\
+If you're looking to launch your own token project on ChewySwap there are many resources available for developers unique to our DEX! If you have any questions also feel welcome to ask in our [Official Telegram Group](https://t.me/chewyswapcommunity) and our experienced community of developers would be happy to assist you with your smart contract, Dapp, NFT and more!\
 \
 To make it easy for users to create their own tokens we've made a FREE no-code token deployer tool located at [Token.Chewy.Build](https://token.chewy.build). This tool will create a basic ERC-20 token contract with 0 tax, all you do is:\
 
@@ -18,3 +18,7 @@ To make it easy for users to create their own tokens we've made a FREE no-code t
 9. Approve your token, then click Supply. Once the transaction is confirmed your token is n ow tradable on [ChewySwap](https://chewyswap.dog)!
 
 To provide your own contract to compile and deploy using [Remix](https://remix.ethereum.org) check the [Smart Contracts](smart-contracts/) page for our Router address (needed if your token contract has a tax or rewards).
+
+
+
+\*\* Alternatively, you can launch your project on ChewySwap using the tools provided by our partners at [Gempad Launchpad](https://gempad.app). Check the next page for more information
