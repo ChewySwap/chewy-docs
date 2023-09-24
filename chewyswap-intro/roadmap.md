@@ -12,16 +12,16 @@ Due to issues of security and prevention of copycats and market manipulation by 
 
 ## Ongoing / Recurring
 
-* Official Shibarium DEX Launch
-* Farming
-* Single Token Staking
+* Official Shibarium DEX Launch :white\_check\_mark:
+* Farming :white\_check\_mark:
+* Single Token Staking :white\_check\_mark:
 * Integrate Anti-Rug Tools into Swap:
   * LP Lock Checker
   * Scam Project Report / Warning Blacklist
 * Integrate ChewySwap DEX functions into PooShib Charting/Tracker Dapp
-* Smart Contract Audits for DEX
-* Smart Contract Audits for Tokens
-* New Project Onboarding
+* Smart Contract Audits for DEX :white\_check\_mark:
+* Smart Contract Audits for Tokens :white\_check\_mark:
+* New Project Onboarding :white\_check\_mark:
 
 ## September 2023
 
