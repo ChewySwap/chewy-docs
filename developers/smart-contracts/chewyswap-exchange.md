@@ -36,4 +36,4 @@ Dogechain INIT\_CODE\_HASH:
 b336a8b47fdc2600ed0b1be659f72b59cb3096a8dd3814eda610401c00f5fd49
 {% endhint %}
 
-:mag\_right: [**ChewySwap Shibarium Smart Contracts on GitHub**](https://github.com/ChewySwap/chewyswap-contracts)
+:mag\_right:&#x20;

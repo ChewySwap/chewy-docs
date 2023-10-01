@@ -15,7 +15,7 @@ Ways we're increasing Chewy's Utility:
 * Chewy's Lucky Dog Lottery - buy raffle tickets using CHEWY for the chance to win the jackpot! (Soon!)
 
 **Total Starting Supply**: 1,000,000 CHEWY\
-**Emissions Rate**: 0.2 CHEWY Per Block\
+**Emissions Rate**: 0.1 CHEWY Per Block\
 **Tokenomics**: 60% to Farms, 30% to Pools, 10% to Burnt LP/Token Burn\
 \
 \*\* No Tax, Max Wallet or Max Transaction\
