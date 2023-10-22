@@ -23,4 +23,4 @@ To connect to Dogechain you'll need to add it as a custom EVM network to your wa
 
 <table><thead><tr><th width="186"></th><th></th></tr></thead><tbody><tr><td>RPC URL:</td><td>https://rpc.dogechain.dog</td></tr><tr><td>Chain ID:</td><td>2000</td></tr><tr><td>Currency Symbol:</td><td>DOGE</td></tr><tr><td>Block Explorer:</td><td>https://explorer.dogechain.dog</td></tr></tbody></table>
 
-The procedure differs for different wallet software, if you don't have a compatible wallet yet follow the guide how to [Create a Wallet](chewyswap-intro/get-started/create-a-wallet.md).
+The procedure differs for different wallet software, if you don't have a compatible wallet yet follow the guide how to [Create a Wallet](chewyswap-intro/get-started/create-a-wallet.md). Pro-tip: You can also automatically add Dogechain Network to your wallet by navigating to the [Official Dogechain Bridge](https://dive.dogechain.dog/bridge) and follow the prompts to add Dogechain network to your wallet.

@@ -21,7 +21,7 @@ Ways we're increasing Chewy's Utility:
 \*\* No Tax, Max Wallet or Max Transaction\
 \
 **Smart Contract:** 0x2761723006d3Eb0d90B19B75654DbE543dcd974f\
-**Chart:** [Dextools ](https://www.dextools.io/app/en/shibarium/pair-explorer/0x324eef33af720ce44deab7e32f4367a82b4ea43b)| [Dexscreener ](https://dexscreener.com/shibarium/0x324eef33af720ce44deab7e32f4367a82b4ea43b)| [GeckoTerminal](https://www.geckoterminal.com/shibarium/pools/0x324EEf33AF720cE44DEAB7e32F4367a82b4eA43b)
+**Chart:** [CoinGecko](https://www.coingecko.com/en/coins/chewyswap) | [Dextools ](https://www.dextools.io/app/en/shibarium/pair-explorer/0x324eef33af720ce44deab7e32f4367a82b4ea43b)| [Dexscreener ](https://dexscreener.com/shibarium/0x324eef33af720ce44deab7e32f4367a82b4ea43b)| [GeckoTerminal](https://www.geckoterminal.com/shibarium/pools/0x324EEf33AF720cE44DEAB7e32F4367a82b4eA43b)
 
 
 

@@ -23,9 +23,10 @@ Due to issues of security and prevention of copycats and market manipulation by 
 * Smart Contract Audits for Tokens :white\_check\_mark:
 * New Project Onboarding :white\_check\_mark:
 
-## September 2023
+## October 2023
 
-* Coingecko / CoinMarketCap DEX Listing
+* [Coingecko](https://www.coingecko.com/en/coins/chewyswap) Listing :white\_check\_mark:
+* CoinMarketCap Listing
 * Exchange Analytics Page
 * Lucky Dog Lottery:
   * Deflationary Burn Tokenomics Added
@@ -46,7 +47,7 @@ Due to issues of security and prevention of copycats and market manipulation by 
 * Influencer Marketing Campaigns
 * Launch of the ChewySwap Ambassadors Program
 
-## October 2023
+## November 2023
 
 * Customized Project-Specific Swap Page Service:
   * Projects can get a customized swap page made for their website
