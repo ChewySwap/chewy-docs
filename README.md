@@ -19,7 +19,7 @@ layout:
 <figure><img src=".gitbook/assets/8.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-[ChewySwap](https://chewyswap.dog), now live on Shibarium and Dogechain! Helps you make the most out of your Doggy Blockchain trading experience in multiple ways: Tracking, Trading, Earning and Community! A unique DEX combining portfolio tracking, NFT's, Staking, Farms and more! ChewySwap is meant to be powerful enough for the avid DeFi trader while being easy enough to use for all Shibes making their first foray into DeFi!
+[ChewySwap](https://chewyswap.dog), now live on Shibarium and Dogechain! Helps you make the most out of your Doggy Blockchain trading experience by making it easy to Track, Trade and Earn while interacting with the most active and inviting communities in all of crypto! A unique DEX combining the power of NFT's, Staking, Farming and more! ChewySwap is meant to be powerful enough for the avid DeFi trader while being easy enough to use for all Shibes making their first foray into DeFi!
 {% endhint %}
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
@@ -34,7 +34,7 @@ ChewySwap is the leading _**Community-Based**_ decentralized exchange on Shibari
 
 ### For the Public Good!
 
-ChewySwap is pledging 2% of all profits generated from platform trading fees to charities helping Children and Dogs. The target recipient of these funds will be voted on by on-chain Governance using CHEWY tokens.
+ChewySwap is pledging 2% of all profits generated from platform trading fees to charities helping our furry friends! The target recipient of these funds will be voted on by the ChewySwap community once platform profits reach a reasonable level to make a decent sized donation!
 
 ### Low, Near-Zero Fees!
 
