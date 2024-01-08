@@ -18,6 +18,12 @@ layout:
 
 <figure><img src=".gitbook/assets/8.png" alt="" width="375"><figcaption></figcaption></figure>
 
+
+
+{% hint style="warning" %}
+**1/2024 - ChewySwap DEX V2 Frontend Released! Documents are in the process of being updated for all the new changes and features added in V2 !** _Note: There are no changes to the backend contracts or LP, both V1 and V2 of the UI are interchangeable._&#x20;
+{% endhint %}
+
 {% hint style="success" %}
 [ChewySwap](https://chewyswap.dog), now live on Shibarium and Dogechain! Helps you make the most out of your Doggy Blockchain trading experience by making it easy to Track, Trade and Earn while interacting with the most active and inviting communities in all of crypto! A unique DEX combining the power of NFT's, Staking, Farming and more! ChewySwap is meant to be powerful enough for the avid DeFi trader while being easy enough to use for all Shibes making their first foray into DeFi!
 {% endhint %}

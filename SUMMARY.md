@@ -4,6 +4,7 @@
   * [🏃♂ Get Started](chewyswap-intro/get-started/README.md)
     * [👜 Create a Wallet](chewyswap-intro/get-started/create-a-wallet.md)
     * [🍖 Get BONE for Gas](chewyswap-intro/get-started/get-bone-for-gas.md)
+  * [🔐 KYC](chewyswap-intro/kyc.md)
   * [🔍 Audits](chewyswap-intro/audits.md)
   * [🗺 Roadmap](chewyswap-intro/roadmap.md)
 * [🦴 Chewy Token](chewy-token.md)
