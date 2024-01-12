@@ -17,17 +17,26 @@ Due to issues of security and prevention of copycats and market manipulation by 
 * Single Token Staking :white\_check\_mark:
 * Integrate Anti-Rug Tools into Swap:
   * LP Lock Checker
-  * Scam Project Report / Warning Blacklist
+  * Scam Project Report / Warning Blacklist :white\_check\_mark:
 * Integrate ChewySwap DEX functions into PooShib Charting/Tracker Dapp
 * Smart Contract Audits for DEX :white\_check\_mark:
 * Smart Contract Audits for Tokens :white\_check\_mark:
 * New Project Onboarding :white\_check\_mark:
+* Liquidity Bootstrapping Incentives for quality, safu metaverse / utility projects launching on ChewySwap  :white\_check\_mark:
+* ChewySwap NFT Incubator - Helping projects launch their NFT collections
 
-## October 2023
+## Q3 2023 / Q1 2024
 
 * [Coingecko](https://www.coingecko.com/en/coins/chewyswap) Listing :white\_check\_mark:
+* ChewySwap UI V2 Upgrade :white\_check\_mark:
+  * Built-In Charts :white\_check\_mark:
+  * Zap-In and Zap-Out Liquidity :white\_check\_mark:
+  * WalletConnect V2 :white\_check\_mark:
+  * Improved Farms Page / Staking Pools
 * CoinMarketCap Listing
 * Exchange Analytics Page
+* Trending Pairs
+* Portfolio Tracker / Dividend token tracking
 * Lucky Dog Lottery:
   * Deflationary Burn Tokenomics Added
   * Buy lotto tickets with CHEWY for a chance to win
@@ -42,12 +51,12 @@ Due to issues of security and prevention of copycats and market manipulation by 
 * Dollar Value Conversion in the Swap
 * Tokenlist Upgrades:
   * Ability to set per-token slippage for auto slip
-  * Ability to add Website / Socials / NFT Collection popups for tokens in swap
+  * Ability to add Website / Socials / NFT Collection popups for tokens in swap (Ongoing)
   * Ability to load custom tokenlists ala "Degens" token list
-* Influencer Marketing Campaigns
-* Launch of the ChewySwap Ambassadors Program
+* Influencer Marketing Campaigns :white\_check\_mark:
+* Launch of the ChewySwap Ambassadors Program :white\_check\_mark:
 
-## November 2023
+## Q2
 
 * Customized Project-Specific Swap Page Service:
   * Projects can get a customized swap page made for their website
@@ -63,10 +72,8 @@ Due to issues of security and prevention of copycats and market manipulation by 
 
 ## And Beyond...
 
-* V3 UI Upgrade / V3 Liquidity (Depending on market conditions)
 * Initial Farm Offerings (IFO) - Presales bought by staking LP
 * LP Bonds - Weening off of "Rented" liquidity by selling tokens at a discount in exchange for buying LP bonds.
 * ChewySwap NFT Collection - buy with CHEWY token or BONE, a % of all sales are used to burn CHEWY
-* Tighter integrations with PooShib Portfolio Tracker Dapp
 * TWAP Swap Integration
 * Perpetuals Market (Dependent on oracles support on Shibarium)
