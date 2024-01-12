@@ -30,6 +30,8 @@ layout:
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
 
+<figure><img src=".gitbook/assets/kyc.png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">Assure ChewySwap KYC Page</a></p></figcaption></figure>
+
 ## Trade
 
 > Instantly swap crypto tokens on Shibarium & Dogechain in a Decentralized way: No registration or account needed.
@@ -66,12 +68,16 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 ## Is ChewySwap Safe?
 
+### Team KYC'd
+
+KYC by [Assure Defi](https://assuredefi.com/projects/chewyswap/) to ensure safety and accountability! Two team members have been through a rigorous KYC process by Assure, including the wallets that hold all project funds.&#x20;
+
 ### Transparent:
 
 * We're built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
 * Our contracts are verified on ShibariumScan so you know that what you see is what you get: (coming soon)
 * All frontend code is Open Source and can be accessed via [GitHub](https://github.com/PooDoge/DogeshrekDEX-UI) (coming soon)
-* Unlike many DEX on Shibarium, we're fully GPL v3 compliant and share every bit of forked code completely up to date
+* Unlike many DEX on Shibarium, we're fully GPL v3 compliant and share every bit of forked code completely up to date (Updated GitHub coming soon)
 
 ### Always Accessible
 
