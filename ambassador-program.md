@@ -1,6 +1,6 @@
 # 🧑🤝🧑 Ambassador Program
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 :white\_check\_mark: Do you have a passion for crypto and always wanted to help others find their love for crypto on the Shibarium/Dogechain network?\
 \
