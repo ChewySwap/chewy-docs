@@ -6,7 +6,7 @@ At ChewySwap we put a lot of work into making sure our AMM interface is customiz
 All user settings are automatically saved and will persist in your browser until either your browser cache is cleared or you change them back to their previous setting.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NewSettings.png" alt=""><figcaption></figcaption></figure>
 
 ## Slippage Tolerance
 
@@ -24,17 +24,17 @@ For Example: Let's say you put in a swap trading 100 BONE for 1000 CHEWY and you
 \*\* In certain cases where price is very volatile such as in a Fair Launch it may be necessary to set slippage higher than recommended. This is done at your own risk and there's a maximum slippage for normal mode. To disable safety checks on trades such as slippage/price impact turn on "Expert Mode" in Settings.
 {% endhint %}
 
+## Mute Audio (Sound Effects)
 
+Does exactly what it says on the tin, enables or disables the Chewy sound effects when selecting tokens. Enabled turns sounds on, Disabled turns sounds off.
 
-## Disable Multi-Hop Swaps
+## Disable Multi-Hop Swaps (Single Hop Only)
 
 In some cases when the UI finds a better price by routing through different pairs it will route through those other pairs to achieve the swap. This is sometimes even necessary when there isn't a direct liquidity pair to trade for the given input and output tokens. The UI takes into account DEX fees in calculating this price.&#x20;
 
-In some cases you might not want to use multi-hop, lets say for example there's a buy contest on POOSHIB token but only on the BONE pair and the swap is trying to route through the WETH pair - then you would want to disable Multi-Hops by turning the "Disable Multi-Hop Swaps" setting ON.
+In some cases you might not want to use multi-hop, lets say for example there's a buy contest on ShibaPunkz token but only on the BONE pair and the swap is trying to route through the WETH pair - then you would want to disable Multi-Hops by turning the "Disable Multi-Hop Swaps" setting ON.
 
 Note that disabling multi-hop swaps will persist through your next session and you'll need to turn the setting OFF again to enable Multi-Hop again.
-
-
 
 ## Toggle Expert Mode
 
@@ -53,17 +53,9 @@ Swaps will go directly to transaction confirmation and will no longer show the d
 
 Another feature of Expert Mode is the ability to add a send to your swap. This feature lets you make a swap and send the tokens to different wallet address from the one you're currently connected to. To enable this click the "+ Add a send (optional)" button and enter a _**valid**_ wallet address.
 
+### Zap Mode
+
+Zap Mode allows for simple Liquidity provisioning by automatically swapping one token for the side of the pair that you're currently missing in your wallet. This makes it easier to add liquidity for when you'd like to farm LP or help strengthen the liquidity of your favorite project. For a more detailed write-up on Zap In and Zap Out check the[ Zap (V2) Section](zap-v2.md)!
 
 
-## Toggle Sound Effects
-
-Does exactly what it says on the tin, enables or disables the Chewy sound effects when selecting tokens. Enabled turns sounds on, Disabled turns sounds off.
-
-
-
-## Transaction Deadline
-
-This setting rarely will ever need to be changed, this sets a transaction deadline for your swaps and LP add/remove transactions. If the transaction takes longer than the set number of minutes to be mined then it will automatically revert.&#x20;
-
-In very rare cases your transactions will take longer than a couple minutes to be mined by validators, so only change if you know what you're doing.
 
