@@ -15,6 +15,7 @@
     * [↕ Token Swaps](products/exchange/token-swaps.md)
     * [🗺 Fees and Routes](products/exchange/fees-and-routes.md)
     * [⚙ Settings / Slippage](products/exchange/settings-slippage.md)
+    * [⚡ Zap (V2)](products/exchange/zap-v2.md)
     * [🔒 Liquidity Pools](products/exchange/liquidity-pools.md)
   * [🧑🌾 Yield Farming](products/yield-farming/README.md)
     * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
