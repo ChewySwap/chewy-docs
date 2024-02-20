@@ -13,6 +13,7 @@
 * [🎉 Products](products/README.md)
   * [🔄 Exchange](products/exchange/README.md)
     * [↕ Token Swaps](products/exchange/token-swaps.md)
+    * [📈 Built-In Charts](products/exchange/built-in-charts.md)
     * [🗺 Fees and Routes](products/exchange/fees-and-routes.md)
     * [⚙ Settings / Slippage](products/exchange/settings-slippage.md)
     * [⚡ Zap (V2)](products/exchange/zap-v2.md)
