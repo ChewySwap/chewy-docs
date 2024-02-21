@@ -105,10 +105,12 @@ You will see:
 
 Zap also enables you to receive one single token in the trading pair when removing liquidity.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
+1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](#user-content-fn-1)[^1].
 2. Click on the pair you want to remove liquidity under “Your Liquidity".
 3. Click “Remove”. A new pop-up will appear.
 
 Under the “You Will Receive” section, you can uncheck the token you don’t want to receive. Zap will automatically swap and convert 100% of the returns into the checked token when removing liquidity.
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt="" width="433"><figcaption></figcaption></figure>
+
+[^1]: 
