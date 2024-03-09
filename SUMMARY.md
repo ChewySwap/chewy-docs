@@ -32,5 +32,6 @@
     * [👨‍🍳 MasterChef](developers/smart-contracts/masterchef.md)
   * [🧪 Testnet Support](developers/testnet-support/README.md)
     * [🐶 About Dogechain ZKEVM](developers/testnet-support/about-dogechain-zkevm.md)
+    * [🔗 Connecting](developers/testnet-support/connecting.md)
     * [👨‍💻 Developers](developers/testnet-support/developers.md)
 * [🎬 Media Kit](media-kit.md)
