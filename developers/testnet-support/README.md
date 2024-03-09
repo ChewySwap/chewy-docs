@@ -6,6 +6,8 @@ description: ChewySwap on Testnet!
 
 To prepare for the release and adding support for future Blockchains we will periodically add testnet support to ChewySwap. Currently in testnet is Dogechain ZKEVM which we are waiting for the full release of.
 
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Funds on Dogechain ZKEVM are not redeemable for real crypto! Do not attempt to send mainnet funds to testnet!
 {% endhint %}
