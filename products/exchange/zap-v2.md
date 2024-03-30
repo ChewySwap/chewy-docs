@@ -40,7 +40,7 @@ Pick the trading pair you want to provide liquidity to by selecting two input to
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
 
 </div>
 

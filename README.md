@@ -12,55 +12,55 @@ layout:
     visible: true
 ---
 
-# ℹ ChewySwap Intro
+# ℹ️ ChewySwap Intro
 
-
-
-<figure><img src=".gitbook/assets/8.png" alt="" width="375"><figcaption></figcaption></figure>
-
-
-
-{% hint style="warning" %}
-**1/2024 - ChewySwap DEX V2 Frontend Released! Documents are in the process of being updated for all the new changes and features added in V2 !** _Note: There are no changes to the backend contracts or LP, both V1 and V2 of the UI are interchangeable._&#x20;
-{% endhint %}
-
-{% hint style="success" %}
+{% hint style="info" %}
 [ChewySwap](https://chewyswap.dog), now live on Shibarium and Dogechain! Helps you make the most out of your Doggy Blockchain trading experience by making it easy to Track, Trade and Earn while interacting with the most active and inviting communities in all of crypto! A unique DEX combining the power of NFT's, Staking, Farming and more! ChewySwap is meant to be powerful enough for the avid DeFi trader while being easy enough to use for all Shibes making their first foray into DeFi!
 {% endhint %}
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
 
-<figure><img src=".gitbook/assets/kyc.png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">Assure ChewySwap KYC Page</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/FullBody.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Trade
 
 > Instantly swap crypto tokens on Shibarium & Dogechain in a Decentralized way: No registration or account needed.
 
-### By the People, For the People!
+## By the People, For the People!
 
 ChewySwap is the leading _**Community-Based**_ decentralized exchange on Shibarium and Dogechain, the two leading EVM compatible blockchains for Dog lovers! For more information on Shiba Inu and Shibarium [Click Here!](https://shib.io) For more information on Dogechain and the charge to bring Decentralized Finance and increased utility to Dogecoin [Click Here!](https://dogechain.dog)
 
-### For the Public Good!
+## For the Public Good!
 
-ChewySwap is pledging 2% of all profits generated from platform trading fees to charities helping our furry friends! The target recipient of these funds will be voted on by the ChewySwap community once platform profits reach a reasonable level to make a decent sized donation!
+ChewySwap is pledging half of all profits¹ generated from platform fees to charitable causes that are important to members of our community! In an industry where short term profiteering normally takes priority, we take an entirely different approach. By focusing on using our skills to help enrich others and little by little making the world a better place we hope to continue attracting likeminded individuals who reflect the values and principles on which Chewy was founded!\
+\
+We've already made a couple contributions to various charities such as the [Good Dog Foundation](https://twitter.com/ChewySwap/status/1770783799514689808), [American Cancer Society](https://twitter.com/ChewySwap/status/1771192900388323417) and [Guiding Eyes for the Blind](https://twitter.com/ChewySwap/status/1773430909758234958) - all foundations that were suggested by members of our beloved community. Stay tuned on our [Twitter page ](https://twitter.com/ChewySwap)to keep up to date on our latest donations and also be sure to let us know in the comments what charity or cause is most important to you and we'll get them on the next donation!\
+&#x20;\
+¹ Profits being equal to funds generated from DEX Platform Fees - Platform Overhead
 
-### Low, Near-Zero Fees!
+## Staying on the Cutting Edge
 
-If you thought BSC had low fees wait til you start trading on Shibarium! The cost for a swap on ChewySwap is fractions of a Bone making trading an easy and fast process. Even when BONE goes to hundreds of dollars those fees will still only be pennies which is much lower than BSC and _**miles**_ lower than Ethereum!
+ChewySwap is about more than building an amazing decentralized exchange, we work closely with builders using our expertise to help foster growth and innovation in the growing field of MemeFi. It's about more than keeping up with the latest trends but also the latest technology - our DEX is armed with the latest Web3 tech enabling the use of nearly any consumer wallet app including support for [Multi-Signature wallets](https://wallet.cryptiq.online) enabling improved trust and security.
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="280"><figcaption></figcaption></figure>
+
+## Low, Near-Zero Fees!
+
+If you thought BSC had low fees wait until you start trading on Shibarium and Dogechain! The cost for a swap on ChewySwap is fractions of a Bone / Doge making trading an easy and fast process. Even when BONE / Doge go to hundreds of dollars those fees will still only be pennies which is much lower than BSC and _**miles**_ lower than Ethereum!
 
 ## &#x20;Earn
 
 > Earn CHEWY and other tokens for free with interest rates that will leave you and your furry friend salivating!
 
-### Earn tokens with Single Staking
+## Earn tokens with Single Staking
 
 Stake a variety of Shibarium-based tokens and earn free tokens. And also coming soon: Third party pools provided to projects feed back into our ecosystem making for more sustainable rewards helping Chewy retain its value so you can earn more, for even longer.
 
-### Earn CHEWY with Yield Farms
+## Earn CHEWY with Yield Farms
 
 Stake LP tokens, earn CHEWY. You take on a little more exposure to market fluctuations than with single token staking pools, but you can earn higher APR to offset the risk
 
-### Earn Trading Fees
+## Earn Trading Fees
 
 No farm? No problem! Even if your trading pair isn't supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
 
@@ -71,6 +71,8 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 ### Team KYC'd
 
 KYC by [Assure Defi](https://assuredefi.com/projects/chewyswap/) to ensure safety and accountability! Two team members have been through a rigorous KYC process by Assure, including the wallets that hold all project funds.&#x20;
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">ChewySwap KYC Verified by Assure DeFi</a></p></figcaption></figure>
 
 ### Transparent:
 
