@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ℹ️ ChewySwap Intro](README.md)
+  * [🇺🇳 Languages](chewyswap-intro/languages.md)
   * [🏃‍♂️ Get Started](chewyswap-intro/get-started/README.md)
     * [👜 Create a Wallet](chewyswap-intro/get-started/create-a-wallet.md)
     * [🍖 Get BONE for Gas](chewyswap-intro/get-started/get-bone-for-gas.md)
