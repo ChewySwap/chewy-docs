@@ -31,6 +31,7 @@
   * [📄 Smart Contracts](developers/smart-contracts/README.md)
     * [🔄 ChewySwap Exchange](developers/smart-contracts/chewyswap-exchange.md)
     * [👨‍🍳 MasterChef](developers/smart-contracts/masterchef.md)
+    * [🧪 Testnet](developers/smart-contracts/testnet.md)
   * [🧪 Testnet Support](developers/testnet-support/README.md)
     * [🐶 About Dogechain ZKEVM](developers/testnet-support/about-dogechain-zkevm.md)
     * [🔗 Connecting](developers/testnet-support/connecting.md)

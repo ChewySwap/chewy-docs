@@ -1,13 +1,13 @@
 ---
-description: ChewySwap on Testnet!
+description: ChewySwap on PuppyNet
 ---
 
 # 🧪 Testnet Support
 
-To prepare for the release and adding support for future Blockchains we will periodically add testnet support to ChewySwap. Currently in testnet is Dogechain ZKEVM which we are waiting for the full release of.
-
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+Was asked by a based team if they could get the new sepolia based testnet on [#Shibarium](https://twitter.com/hashtag/Shibarium?src=hashtag\_click) to test some things, since we're all about supporting builders [#ChewySwap](https://twitter.com/hashtag/ChewySwap?src=hashtag\_click) is now on the new [#PuppyNet](https://twitter.com/hashtag/PuppyNet?src=hashtag\_click) use it to test your token contracts before going to mainnet!\
+[\
+PuppyNet Faucet](https://shibarium.shib.io/faucet)
 
 {% hint style="warning" %}
-Funds on Dogechain ZKEVM are not redeemable for real crypto! Do not attempt to send mainnet funds to testnet!
+Funds on PuppyNet are not redeemable for real crypto! Do not attempt to send mainnet funds to testnet!
 {% endhint %}
