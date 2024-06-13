@@ -26,6 +26,10 @@ layout:
 
 > Instantly swap crypto tokens on Shibarium & Dogechain in a Decentralized way: No registration or account needed.
 
+## ChewySwap Interactive Guide
+
+{% @storylane/embed subdomain="app" linkValue="mvyc2j0rlshh" url="https://app.storylane.io/share/mvyc2j0rlshh" %}
+
 ## By the People, For the People!
 
 ChewySwap is the leading _**Community-Based**_ decentralized exchange on Shibarium and Dogechain, the two leading EVM compatible blockchains for Dog lovers! For more information on Shiba Inu and Shibarium [Click Here!](https://shib.io) For more information on Dogechain and the charge to bring Decentralized Finance and increased utility to Dogecoin [Click Here!](https://dogechain.dog)
