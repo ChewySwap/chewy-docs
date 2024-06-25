@@ -25,6 +25,8 @@
 * [🧑‍🤝‍🧑 Ambassador Program](ambassador-program.md)
 * [🤝 Ecosystem & Partnerships](ecosystem-and-partnerships.md)
 * [👩‍💻 Developers](developers/README.md)
+  * [🛠️ Build on ChewySwap](developers/build-on-chewyswap/README.md)
+    * [Dapp Boilerplate](developers/build-on-chewyswap/dapp-boilerplate.md)
   * [👍 Contributing](developers/contributing.md)
   * [🚀 Launching on ChewySwap](developers/launching-on-chewyswap.md)
   * [💎 Gempad](developers/gempad.md)
