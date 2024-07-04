@@ -46,7 +46,7 @@ We've already made a couple contributions to various charities such as the [Good
 
 ChewySwap is about more than building an amazing decentralized exchange, we work closely with builders using our expertise to help foster growth and innovation in the growing field of MemeFi. It's about more than keeping up with the latest trends but also the latest technology - our DEX is armed with the latest Web3 tech enabling the use of nearly any consumer wallet app including support for [Multi-Signature wallets](https://wallet.cryptiq.online) enabling improved trust and security.
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="280"><figcaption></figcaption></figure>
 
 ## Low, Near-Zero Fees!
 
@@ -76,7 +76,7 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 KYC by [Assure Defi](https://assuredefi.com/projects/chewyswap/) to ensure safety and accountability! Two team members have been through a rigorous KYC process by Assure, including the wallets that hold all project funds.&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">ChewySwap KYC Verified by Assure DeFi</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">ChewySwap KYC Verified by Assure DeFi</a></p></figcaption></figure>
 
 ### Transparent:
 

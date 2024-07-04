@@ -40,7 +40,7 @@ Pick the trading pair you want to provide liquidity to by selecting two input to
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ If the token in the trading pair you are adding liquidity to has a balance in yo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
