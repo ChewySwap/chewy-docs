@@ -45,7 +45,7 @@ If your token smart contract has a tax or any limits on max wallet, max transact
 
 ## Migrating the Liquidity to ChewySwap
 
-[You can find out guide on adding liquidity on ChewySwap here](../products/exchange/liquidity-pools.md). But to ensure your project has a smooth migration and the starting price is the same as was on Marswap make sure you add the tokens in the same exact ratio of TOKEN/BONE as was originally removed. If you're adding LP to both ChewySwap and ShibaSwap still keep the same ratio to ensure the same price. It can be figured out by a simple ratio:
+[You can find our guide on adding liquidity on ChewySwap here](../products/exchange/liquidity-pools.md). But to ensure your project has a smooth migration and the starting price is the same as was on Marswap make sure you add the tokens in the same exact ratio of TOKEN/BONE as was originally removed. If you're adding LP to both ChewySwap and ShibaSwap still keep the same ratio to ensure the same price. It can be figured out by a simple ratio:
 
 $$
 tokenAmount/oldBONE = X/newBONE
