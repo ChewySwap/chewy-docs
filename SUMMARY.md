@@ -11,6 +11,7 @@
 * [🦴 Chewy Token](chewy-token.md)
 * [🐶 Connect to Shibarium](connect-to-shibarium.md)
 * [🐕 Connect to Dogechain](connect-to-dogechain.md)
+* [❔ Frequently Asked Questions](frequently-asked-questions.md)
 * [🎉 Products](products/README.md)
   * [🔄 Exchange](products/exchange/README.md)
     * [↕️ Token Swaps](products/exchange/token-swaps.md)
