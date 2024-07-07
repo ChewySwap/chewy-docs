@@ -27,6 +27,23 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 Here's a list of the most popular wallets you can use to connect to Shibarium and trade on ChewySwap:
 
 {% tabs %}
+{% tab title="Rabby" %}
+<div align="left" data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Rabby Wallet</p></figcaption></figure>
+
+</div>
+
+Rabby wallet is a new browser extension and mobile wallet app by [Debank ](https://debank.com/)which has a lot of great and innovative features.
+
+* View combined multichain + staked + farmed balances
+* Built-in approval revoke tool
+* View expected balance simulation before signing any TX
+* Open Source and audited
+
+[Download Rabby](https://rabby.io/points?code=6L20IHJM)
+{% endtab %}
+
 {% tab title="Metamask" %}
 <figure><img src="../../.gitbook/assets/Metamask.png" alt=""><figcaption></figcaption></figure>
 
@@ -91,12 +108,10 @@ Coin98 wallet is a closed source software wallet application, for this reason we
 
 [**How to Add Custom Network**](https://docs.coin98.com/products/coin98-super-app/extension/beginners-guide/add-custom-networks) (With C98 Wallet)
 
-[**Dogechain Network Information**](https://docs.dogechain.dog/docs/overview) (Use to Connect C98 to Dogechain)
+[**Dogechain Network Information**](https://docs.dogechain.dog/docs/overview) (Use to Connect C98 to Dogechain)**NEVER**, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
-**NEVER**, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
-
 The genuine ChewySwap site and staff will never ask you to input your seed phrase.
 {% endhint %}
