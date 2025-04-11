@@ -80,7 +80,7 @@ A: Select DEX below to copy router address
 
 A: If your token has a tax or rewards you'll need to also update your swap router address using write contract function named "updateSwapRouter" and set your "setSwapAtAmount" function back to a manageable amount so that the smart contract continues swapping taxes for appropriate \[marketing/rewards/burn] token. If you're using an auto burn function you'll also need to update your burn router depending on which DEX has the best liquidity for the token you're burning. \
 \
-_Note: Functionality depends on the smart contract, not all smart contracts allow changing swap router so you'll either have to leave some LP on marswap or launch a new smart contract._
+&#xNAN;_&#x4E;ote: Functionality depends on the smart contract, not all smart contracts allow changing swap router so you'll either have to leave some LP on marswap or launch a new smart contract._
 
 </details>
 
