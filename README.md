@@ -76,7 +76,7 @@ No farm? No problem! Even if your trading pair isn't supported on the Farms page
 
 KYC by [Assure Defi](https://assuredefi.com/projects/chewyswap/) to ensure safety and accountability! Two team members have been through a rigorous KYC process by Assure, including the wallets that hold all project funds.&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">ChewySwap KYC Verified by Assure DeFi</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://assuredefi.com/projects/chewyswap/">ChewySwap KYC Verified by Assure DeFi</a></p></figcaption></figure>
 
 ### Transparent:
 

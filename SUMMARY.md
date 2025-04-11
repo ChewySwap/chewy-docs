@@ -17,6 +17,7 @@
     * [How to Swap](products/dex-aggregator/how-to-swap.md)
     * [Send Tokens](products/dex-aggregator/send-tokens.md)
     * [Price Ticker](products/dex-aggregator/price-ticker.md)
+  * [Portfolio Tracker](products/portfolio-tracker.md)
   * [🔄 Exchange](products/exchange/README.md)
     * [↕️ How to Swap](products/exchange/how-to-swap.md)
     * [📈 Built-In Charts](products/exchange/built-in-charts.md)
