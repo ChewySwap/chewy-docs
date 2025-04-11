@@ -6,7 +6,11 @@ description: Optimizes your Swaps for the Best Price!
 
 ## Introduction to DEX Aggregators
 
-Decentralized Exchange (DEX) **aggregators** are like the travel search engines of crypto trading – but instead of flights, they hunt for the best token swap deals across multiple exchanges. In simple terms, a DEX aggregator is a tool that **searches many decentralized exchanges at once** to find users the most favorable price for a trade​[cryptorank.io](https://cryptorank.io/news/feed/4eb89-dex-aggregator-how-to-find-the-best-prices). This means traders **don’t have to manually check each DEX** for rates; the aggregator does the comparison shopping automatically. By combining liquidity from various exchanges into one platform, an aggregator can often **offer better prices and lower slippage** (price changes during a trade) than any single exchange could on its own. The result? Users get more value from their swaps, **save time**, and avoid the pitfalls of bad trades on illiquid markets or with high slippage.
+Decentralized Exchange (DEX) **aggregators** are like the travel search engines of crypto trading – but instead of flights, they hunt for the best token swap deals across multiple exchanges. In simple terms, a DEX aggregator is a tool that **searches many decentralized exchanges at once** to find users the most favorable price for a trade. This means traders **don’t have to manually check each DEX** for rates; the aggregator does the comparison shopping automatically. By combining liquidity from various exchanges into one platform, an aggregator can often **offer better prices and lower slippage** (price changes during a trade) than any single exchange could on its own. The result? Users get more value from their swaps, **save time**, and avoid the pitfalls of bad trades on illiquid markets or with high slippage.
+
+{% embed url="https://app.chewyswap.dog/swap" %}
+Try ChewySwap DEX Aggrator Now!
+{% endembed %}
 
 ### **Benefits of using a DEX aggregator:**
 

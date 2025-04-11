@@ -6,7 +6,7 @@ description: How to migrate project Liquidity from Marswap to ChewySwap
 
 On July 1st it was announced that former competitor Marswap DEX on Shibarium would be "closing its doors" and projects had 24 hours to remove their liquidity and migrate before they took down the frontend.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 This was understandably met with a lot of panic by projects owners and was soon extended afterwards, but still it is a good idea to always have a plan in case the unexpected happens. Their reasoning was that volume couldn't sustain the cost of running their website.&#x20;
 
@@ -24,7 +24,7 @@ If you run a project and need assistance in the migration process [do not hesita
 
 The first step you can try if getting an error on removing liquidity is to switch to receive WBONE. On Marswap this option isn't very obvious and is easy to miss. This is done by clicking where it says "Receive WNative" as pointed out in this screenshot:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="357"><figcaption><p>Click Receive WNative to remove as WBONE</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="357"><figcaption><p>Click Receive WNative to remove as WBONE</p></figcaption></figure>
 
 Then you will just have to unwrap the resulting WBONE back to BONE. (The process to remove is to first click "Enable", confirm transaction and wait for confirmation. Then click "Remove" to finish process)
 

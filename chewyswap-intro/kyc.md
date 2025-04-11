@@ -6,7 +6,7 @@ description: Taking a step towards solid investor security and transparency.
 
 We are proud & excited to announce that our KYC has been APPROVED by The Verification Gold Standard, @AssureDefi ✨✅
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/assure-banners-icon-blue-transparent.png" alt=""><figcaption></figcaption></figure>
 
