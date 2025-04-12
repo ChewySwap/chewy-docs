@@ -20,7 +20,7 @@ layout:
 
 **Quick Links:** [Smart Contracts](broken-reference) | [MasterChef](broken-reference)
 
-<figure><img src=".gitbook/assets/FullBody.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/NakedChewy.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Trade
 
